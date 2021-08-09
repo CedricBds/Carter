@@ -1,0 +1,39 @@
+.content{
+/*HAUTEUR EN FONCTION DU TEXT*/
+        height: 80vh;
+        background-color: #a27409;
+        margin: 30px;
+    overflow: scroll;
+    overflow-x: hidden;
+    padding: 5%;
+    border: 10px solid #624501;
+}
+
+.content p{
+    font-size: 25px;
+    padding: 3%;
+    font-family: 'Montserrat', sans-serif;
+    color: #f7b212;
+
+
+}
+
+.content h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #f7b212;
+    text-align: center;
+
+
+}
+
+.blason{
+    width: 150px;
+    margin-top: -66px;
+
+}
+
+.sep{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    text-align: start;
+}

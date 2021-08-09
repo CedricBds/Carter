@@ -1,0 +1,43 @@
+.boxMain{
+    height: 100vh;
+    background-color: #a27409;
+    margin: 30px;
+    border: 10px solid #624501;
+}
+
+.nav{
+    margin: 0;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    list-style: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+}
+
+.nav li{
+    background-color: #624501;
+    padding: 16px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.landingPage{
+    color: #624501;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-top: 10%;
+    border-bottom: 1px solid #624501;
+
+}
+.descLanding{
+    display: flex;
+    justify-content: center;
+}
+
+.landingPage p{
+    width: 50%;
+}

@@ -1,0 +1,88 @@
+.boxMain{
+    align-items: center;
+    height: 100vh;
+    background-color: #a274099e;
+    margin: 30px;
+
+}
+
+
+
+.title{
+    padding-top: 3%;
+    text-align: center;
+    font-family: 'Aclonica', sans-serif;
+    color: #402d03;
+    font-size: 50px;
+    filter: drop-shadow(2px 4px 6px #402d03);
+
+}
+
+
+.preambule{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.preambule h2{
+    font-family: 'Fjalla One', sans-serif;
+    color: #402d03;
+    font-size: 30px;
+    
+    
+}
+
+.preambule p{
+    width: 50%;
+    font-family: 'Montserrat', sans-serif;
+    color: #f7b212;
+    background-color: #624501;
+    font-size: 20px;
+    padding: 3%;
+    filter: drop-shadow(2px 4px 6px black);
+    text-align: start;
+
+}
+
+
+.news{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.news h2{
+    font-family: 'Fjalla One', sans-serif;
+    color: #402d03;
+    font-size: 30px;
+    
+}
+.news p{
+    font-family: 'Montserrat', sans-serif;
+    color: #f7b212;
+    font-size: 20px;
+    text-align: start;
+
+}
+
+.newsContainer{
+    font-family: 'Montserrat', sans-serif;
+    color: #f7b212;
+    font-size: 20px;
+    padding: 3%;
+    filter: drop-shadow(2px 4px 6px black);
+    text-align: start;
+    width: 50%;
+    background-color: #624501;
+
+}
+
+.newsContainer h3{
+    color: #f7b212;
+}
+
+.imgnews{
+    width: 50%;
+}
+.blason{
+    width: 250px;
+    position: absolute;
+    z-index: -1;
+}
